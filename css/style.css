@@ -521,10 +521,10 @@ header ul li:before {
   width: 50%;
 }
 .content .contact-img img {
-  height: 550px;
-  -webkit-transform: translateY(-13%);
+  height: 100%;
+  /* -webkit-transform: translateY(-13%);
       -ms-transform: translateY(-13%);
-          transform: translateY(-13%);
+          transform: translateY(-13%); */
 }
 .content .contact-form {
   width: 50%;
